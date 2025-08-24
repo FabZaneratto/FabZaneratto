@@ -4,11 +4,23 @@ Sou estudante do curso de Análise e Desenvolvimento de Sistemas na Fatec Franca
 
 
 
+
+## 💼 Habilidades Profissionais
+
+- 🤝 Trabalho em equipe    
+- 📋 Organização  
+- 📚 Aprendizado contínuo  
+- 🔄 Adaptabilidade  
+
+
+
+
 ## 🤖🛠️ Tecnologias e Ferramentas
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,python,java,git,github,vscode,idea" />
 </div>
+
 
 
 
