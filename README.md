@@ -1,16 +1,14 @@
-## Hi there 👋
+## Olá, eu sou o Fabricio !
 
-<!--
-**FabZaneratto/FabZaneratto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante do curso de Análise e Desenvolvimento de Sistemas na Fatec Franca (Faculdade de Tecnologia de Franca Dr. Thomaz Novelino) e adoro explorar tudo que envolve tecnologia, sempre buscando aprender e adquirir novos conhecimentos para crescer na área.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias e Ferramentas
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,python,java,git,github,vscode,idea" />
+</div>
+
+---
+
